@@ -1,7 +1,7 @@
 # TP6
 
 <!--- Changer la date de remise en modifiant le URL--->
-#### :alarm_clock: [Date de remise le dimanche 6 décembre à 23h59](https://www.timeanddate.com/countdown/generic?iso=20201206T2359&p0=%3A&msg=Remise+TP6&font=cursive&csz=1)
+#### :alarm_clock: [Date de remise le dimanche 13 avril à 23h59](https://www.timeanddate.com/countdown/generic?iso=20201206T2359&p0=%3A&msg=Remise+TP6&font=cursive&csz=1)
 
 ## Objectif
 
