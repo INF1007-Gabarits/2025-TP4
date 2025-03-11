@@ -86,4 +86,4 @@ if __name__ == "__main__":
              data["simulation"]["winning_msg"] = racing_vehicules[i].celebrer()
 
     with open('out.json', 'w') as out:
-        json.dump(data, out)
+        json.dump(data, out, indent=4)

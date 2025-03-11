@@ -18,13 +18,7 @@ Pour ce TP, certaines contraintes sont à respecter:
 - **Respecter guide de codage et les normes pep8, les docstrings de fonctions et fichiers sont facultatifs pour ce TP**
 - **Noms de variables et fonctions adéquats (concis, compréhensibles)**
 
-## Faire fonctionner le TP
-
-Le TP ne fonctionnera probablement pas avant que vous ayez terminé la partie 2. Quand vous pensez que c'est prêt, vous pouvez l'exécuter en roulant le fichier `main.py`. Vous devriez obtenir un fichier out.json, qui contient toutes les informations de votre simulation. Pour visualiser ce que vous avez fait, vous pouvez visiter le [https://tp6-inf1007.step.polymtl.ca/](https://tp6-inf1007.step.polymtl.ca/) afin de simuler vos résultats! Cliquez simplement sur le bouton `Choose File` en haut à droite, puis sur `Simulate!` une fois que les données ont fini de télécharger. La simulation n'est vraiment pas une étape nécessaire à la réussite du TP, c'est plus un outil pour vous permettre de bien voir que les classes créees s'assemblent pour former de plus gros objets.
-
 ## Mise en contexte
-
-Malheureusement, avec la Covid, la plupart des sports ont étés annulés :sob: Heureusement, vous avez décidé de vous divertir un peu en regardant des courses de voitures sur votre propre simulateur! Il faut donc concevoir les voitures que vous voulez faire courir.
 
 Dans le cadre de ce TP, une voiture est formée de 3 composantes: les roues, le châssis et le moteur. Une composante possède à la base un nom et un poids. Une roue possède un nom, un poids, un poids supporté et un coefficient de friction. Un châssis possèede un nom, un poids, une surface frontale (qui fait face au vent) ainsi qu'un coefficient de résistance au vent. Finalement, un moteur possède un nom, un poids et une accélération.
 
@@ -244,6 +238,13 @@ votreVehicule1 = votreVehicule(nom, position_dep)
 ```
 
 La classe peut s'appeller comme vous voulez, et les propriétés des roues, du chassis et du moteur peuvent avoir les valeurs que vous souhaitez. Une fois que votre véhicule est créé, ajoutez le à la liste des véhicules dans main.py (mais ne modifiez rien d'autre!) Sa position de départ doit être `[1.5 * TRACK_WIDTH, 0, 0]`.
+
+
+## Faire fonctionner le TP
+
+Malheureusement, avec la Covid, la plupart des sports ont étés annulés :sob: Heureusement, vous avez décidé de vous divertir un peu en regardant des courses de voitures sur votre propre simulateur! Il faut donc concevoir les voitures que vous voulez faire courir.
+
+Le TP ne fonctionnera probablement pas avant que vous ayez terminé la partie 2. Quand vous pensez que c'est prêt, vous pouvez l'exécuter en roulant le fichier `main.py`. Vous devriez obtenir un fichier out.json, qui contient toutes les informations de votre simulation. Pour visualiser ce que vous avez fait, vous pouvez visiter le [https://tp6-inf1007.step.polymtl.ca/](https://tp6-inf1007.step.polymtl.ca/) afin de simuler vos résultats! Cliquez simplement sur le bouton `Choose File` en haut à droite, puis sur `Simulate!` une fois que les données ont fini de télécharger. La simulation n'est vraiment pas une étape nécessaire à la réussite du TP, c'est plus un outil pour vous permettre de bien voir que les classes créees s'assemblent pour former de plus gros objets.
 
 ## Pour aller plus loin
 
