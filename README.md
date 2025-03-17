@@ -245,6 +245,8 @@ Le TP ne fonctionnera probablement pas avant que vous ayez terminé la partie 2.
 
 Quand vous pensez que c'est prêt, vous pouvez l'exécuter en roulant le fichier `main.py`. Vous devriez obtenir un fichier out.json, qui contient toutes les informations de votre simulation.
 
+,Pour visualiser ce que vous avez fait, vous pouvez utiliser l'extenstion sur VS code [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server) afin de simuler vos résultats en ouvrant le fichier index.html dans le dossier car_simulation! Cliquez simplement sur le bouton `Choose File` en haut à droite, puis sur `Simulate!` une fois que les données ont fini de télécharger. La simulation n'est vraiment pas une étape nécessaire à la réussite du TP, c'est plus un outil pour vous permettre de bien voir que les classes créees s'assemblent pour former de plus gros objets.
+
 ## Pour aller plus loin
 
 Si jamais vous avez aimé ce TP et que vous voulez tout savoir sur la programmation orientée objet, je vous conseille d'aller lire là dessus un peu (https://realpython.com/python3-object-oriented-programming/, https://python.swaroopch.com/oop.html). Votre deuxième cours de programmation couvrira également spécifiquement cette matière. Sinon, je vous encourage à faire des projets personnels, vous allez vite vous rendre compte que la POO est souvent la forme de programmation utilisée pour des projets un peu plus complexes que de simples scripts.
