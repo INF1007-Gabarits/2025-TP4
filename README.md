@@ -1,7 +1,7 @@
-# TP6
+# TP4
 
 <!--- Changer la date de remise en modifiant le URL--->
-#### :alarm_clock: [Date de remise le dimanche 13 avril à 23h59](https://www.timeanddate.com/countdown/generic?iso=20201206T2359&p0=%3A&msg=Remise+TP6&font=cursive&csz=1)
+#### :alarm_clock: [Date de remise le dimanche 13 avril à 23h59](https://www.timeanddate.com/countdown/to?iso=20250413T235959&p0=165&font=cursive)
 
 ## Objectif
 
@@ -15,7 +15,6 @@ Pour ce TP, certaines contraintes sont à respecter:
 - Vous ne pouvez pas modifier le fichier dictionnaire_modeles.py, sinon le projet final risque de ne pas fonctionner
 - Les imports sont déjà faits, donc pas besoin d'importer rien de nouveau
 - Vous devrez créer un fichier .py pour la partie 3 :)
-- **Respecter guide de codage et les normes pep8, les docstrings de fonctions et fichiers sont facultatifs pour ce TP**
 - **Noms de variables et fonctions adéquats (concis, compréhensibles)**
 
 ## Mise en contexte
@@ -242,9 +241,9 @@ La classe peut s'appeller comme vous voulez, et les propriétés des roues, du c
 
 ## Faire fonctionner le TP
 
-Malheureusement, avec la Covid, la plupart des sports ont étés annulés :sob: Heureusement, vous avez décidé de vous divertir un peu en regardant des courses de voitures sur votre propre simulateur! Il faut donc concevoir les voitures que vous voulez faire courir.
+Le TP ne fonctionnera probablement pas avant que vous ayez terminé la partie 2.
 
-Le TP ne fonctionnera probablement pas avant que vous ayez terminé la partie 2. Quand vous pensez que c'est prêt, vous pouvez l'exécuter en roulant le fichier `main.py`. Vous devriez obtenir un fichier out.json, qui contient toutes les informations de votre simulation. Pour visualiser ce que vous avez fait, vous pouvez visiter le [https://tp6-inf1007.step.polymtl.ca/](https://tp6-inf1007.step.polymtl.ca/) afin de simuler vos résultats! Cliquez simplement sur le bouton `Choose File` en haut à droite, puis sur `Simulate!` une fois que les données ont fini de télécharger. La simulation n'est vraiment pas une étape nécessaire à la réussite du TP, c'est plus un outil pour vous permettre de bien voir que les classes créees s'assemblent pour former de plus gros objets.
+Quand vous pensez que c'est prêt, vous pouvez l'exécuter en roulant le fichier `main.py`. Vous devriez obtenir un fichier out.json, qui contient toutes les informations de votre simulation.
 
 ## Pour aller plus loin
 
